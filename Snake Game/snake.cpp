@@ -149,6 +149,6 @@ void random(int &x,int &y){
 	y=min+rand()%(maxY-min);
 }
 
-//njdkfdbfidgibgldbdkgj
+ldkjfbdkfbdknjdkfdbfidgibgldbdkgj
 
 
