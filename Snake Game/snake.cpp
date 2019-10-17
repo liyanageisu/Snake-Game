@@ -1,3 +1,4 @@
+//8888888888888888888888888888888888888
 #include <GL/gl.h>   
 #include <GL/glut.h>
 #include <ctime>								
@@ -147,5 +148,7 @@ void random(int &x,int &y){
 	x=min+rand()%(maxX-min); 
 	y=min+rand()%(maxY-min);
 }
+
+//njdkfdbfidgibgldbdkgj
 
 
